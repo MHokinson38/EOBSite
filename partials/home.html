@@ -1,0 +1,88 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+	<title></title>
+</head>
+<body>
+<div ng-controller="homeController">
+<div class="homepage">
+<header>
+<div class="divheader">
+<div class="centeredbox">
+<h1><span class="redtext">Engineering</span> Outreach Bureau</h1>
+
+<hr />
+<h2>University of Illinois at Urbana-Champaign</h2>
+</div>
+</div>
+</header>
+
+<div class="row expanded align-middle programs">
+	<div class="column nopadding">
+		<h1 id="about" >
+			<span class="redtext">About</span> Us
+		</h1>
+
+		<div class="about">
+			<p>The Engineering Outreach Bureau is one of 15 committees in Engineering Council. 
+				Our programs are developed and implemented entirely by current engineering students and are designed to inform interested 
+				individuals and groups, most often prospective students and their parents.
+			</p>
+	</div>
+</div>
+</div>
+
+<div class="row expanded align-middle programs">
+<div class="column nopadding">
+<h1 id="programs">
+	<span class="redtext">Our</span> Programs
+</h1>
+&nbsp;
+
+<div class="row expanded align-middle small-up-1 medium-up-1 large-up-1" data-equalizer="">
+	<div class="column programbox navy2" data-equalizer-watch="">
+	<h4><a href="#/edays">Grainger Engineering Days</a></h4>
+	<div class="about">Open to anyone, Grainger Engineering Days are intended to introduce high school students to the many engineering curriculums offered at the University of Illinois. Students will learn about different engineering majors, chat with engineering students, and much more.</div>
+
+	<div class="column programbox navy1" data-equalizer-watch="">
+	<h4><a href="#/shadow">Shadow an Engineer</a></h4>
+	<div class="about">Shadow an Engineer allows admitted students to spend a day with a current U of I engineering student and experience campus life firsthand. Shadowing students will sit in on lectures, and most importantly, get time to talk to current students about their experiences. 
+	NOTE: this program is for admitted students only - parents/siblings will not accompany the shadowing student.</div>
+</div>
+
+<!-- 
+<div class="column programbox navy2" data-equalizer-watch="">
+<h4><a href="#/tours">Grainger Engineering Webinars</a></h4>
+
+<div class="about">Provided by current undergraduate engineering students, webinars showcase our Grainger Engineering campus life and give prospective students a chance to learn about the opportunities the Grainger Engineering departments have to offer from the comfort of their homes.</div>
+
+<div class="about"></div>
+
+<div class="about"></div>
+</div>
+
+--> 
+
+</div>
+</div>
+</div>
+
+
+
+<div class="divmeet">
+<h1 id="meet">
+	<span class="redtext">Meet</span> the Committee
+</h1>
+
+<div class="row expanded small-up-1 medium-up-2 large-up-3">
+<div class="column memberbox" ng-repeat="member in members"><img class="memberpic" ng-src="./data/images/members/{{member.img}}" />
+<div class="namebox"><span class="membername">{{member.name}}</span><br />
+<span class="memberposition">{{member.position}}</span></div>
+
+<div class="memberbio">{{member.bio}}</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
