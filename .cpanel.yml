@@ -1,0 +1,11 @@
+---
+deployment:
+  tasks:
+   - export DEPLOYPATH=/home/eob/public_html/
+   - /bin/cp -R repositories/EOBSite/css $DEPLOYPATH
+   - /bin/cp -R repositories/EOBSite/data $DEPLOYPATH
+   - /bin/cp -R repositories/EOBSite/foundations6_lib $DEPLOYPATH
+   - /bin/cp -R repositories/EOBSite/js $DEPLOYPATH
+   - /bin/cp -R repositories/EOBSite/lib $DEPLOYPATH
+   - /bin/cp -R repositories/EOBSite/partials $DEPLOYPATH
+   - /bin/cp  repositories/EOBSite/index.html $DEPLOYPATH
