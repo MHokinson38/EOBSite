@@ -1,0 +1,11 @@
+---
+deployment:
+  tasks:
+   - export DEPLOYPATH=/home/eob/public_html/
+   - /bin/cp -R css $DEPLOYPATH
+   - /bin/cp -R data $DEPLOYPATH
+   - /bin/cp -R foundation6_lib $DEPLOYPATH
+   - /bin/cp -R js $DEPLOYPATH
+   - /bin/cp -R lib $DEPLOYPATH
+   - /bin/cp -R partials $DEPLOYPATH
+   - /bin/cp index.html $DEPLOYPATH
