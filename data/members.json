@@ -1,114 +1,122 @@
 [
     {
-    "name": "Jacob Milo",
-    "position": "Director",
-    "major": "Chemical Engineering",
-    "year": "Junior",
-    "img": "jacobmilo_director.jpg",
-    "bio": "Hi, I'm Jacob (he/him). I am a junior studying Chemical Engineering. I like playing tennis and basketball outside of EOB. I'm excited to answer any questions you have about engineering at UIUC!"
+        "name": "Sungyoon (Grant) Cho",
+        "position": "Director",
+        "major": "Aerospace Engineering",
+        "year": "Junior",
+        "img": "grantcho_director.png",
+        "bio": "Hi, I’m Grant Cho! I am a junior studying aerospace engineering. I am the Director for EOB this year and I am more than excited to serve this position. On campus, I also served as an orientation leader for the New Student Programs so I am looking forward to connect with more future Illini and share my experiences with Grainger engineering. In my free time, I like to play golf, go hang out with friends, and watch Bob Ross videos!" 
     },
     {
-    "name": "Johnny Hernandez",
-    "position": "Department Chair",
-    "major": "Computer Engineering",
-    "year": "Junior",
-    "img": "johnnyhernandez_DepartmentChair.jpg",
-    "bio": "My name is Johnny Hernandez, a Junior in Mechanical Engineering, and will be the department chair for EOB this year. I'm super excited to help prospective students learn about UIUC!"
+        "name": "Matthew Hokinson",
+        "position": "Shadow-An-Engineer Chair, Webmaster",
+        "major": "Computer Science",
+        "year": "Graduate Student",
+        "img": "matthokinson_saecoord.png",
+        "bio": "Hi, I'm Matt! I'm a Masters student in Computer Science, and I'll be working as a Shadow-An-Engineer chair on EOB. I'm interested in System Programming and Security, and am a TA for Distributed Systems. In my free time I really enjoy cooking, running, and reading."
     },
     {
-    "name": "Ramya Gandhi",
-    "position": "Webmaster",
-    "major": "Systems Engineering & Design",
-    "year": "Junior",
-    "img": "ramyagandhi_webmaster.jpg",
-    "bio": "Hi, I'm Ramya (she/her)! I am a junior studying Systems Engineering & Design with a minor in Technology & Management. I am looking forward to a great year!"
+        "name": "Rene Mohammadi",
+        "position": "Shadow-An-Engineer Co-Coordinator",
+        "major": "Mechanical Engineering",
+        "year": "Sophomore",
+        "img": "renemohammadi_.jpg",
+        "bio": "Hello, I'm Rene! I'm a sophomore in Mechanical Engineering on a PreMed track, and I will be one of the Shadow-an-Engineer coordinators this year! My hobbies include playing a variety of instruments, cooking, and reading!"
     },
     {
-    "name": "Naveen Nathan",
-    "position": "Student Panel Coordinator",
-    "major": "Computer Science",
-    "year": "Senior",
-    "img": "naveennathan_StudentPanel Coord.jpg",
-    "bio": "Hi, I'm Naveen! I'm a senior studying Computer Science and I'll be the Student Panel Coordinator for EOB this year. This is my third year on EOB and my fourth year in Engineering Council. My hobbies include playing basketball, watching movies, and playing video games!"
+        "name": "Kiran Kaur",
+        "position": "Shadow-An-Engineer Co-Coordinator",
+        "major": "Industrial Engineering",
+        "year": "Junior",
+        "img": "",
+        "bio": ""
     },
     {
-    "name": "Dev Wadhwa",
-    "position": "Shadow-An-Engineer Co-Coordinator",
-    "major": "Computer Science",
-    "year": "Junior",
-    "img": "devwadhwa_saecoord.png",
-    "bio": "Hello, I am Dev Wadhwa! I'm a junior studying Computer Science with a minor in Business and the cross-section between the two is where I want to be!"
+        "name": "Mary Ehmann",
+        "position": "High School Outreach Coordinator",
+        "major": "Chemical and Biomolecular Engineering",
+        "year": "Senior",
+        "img": "maryehmann_hsoutreachcoord.jpg",
+        "bio": "Hi, I’m Mary! I am a senior majoring in Chemical and Biomolecular Engineering with a minor in Molecular and Cellular Biology. Some of my hobbies include baking, hiking and traveling. This year I’m looking forward to connecting students to Engineering at UIUC!"
     },
     {
-    "name": "Bhavika Kagathi",
-    "position": "Shadow-An-Engineer Co-Coordinator",
-    "major": " ",
-    "year": "",
-    "img": "bhavikakagathi_saecoord.jpg",
-    "bio": "Hi, I'm Bhavika (she/her). I am a junior studying bioengineering and minoring in electrical engineering. I am a shadow an engineer co-coordinator on EOB. I am also involved in EC as the co-director of EXPO and am also on EC Corporate. I am looking forward to a great semester!"
-    },
-    {
-    "name": "Matthew Hokinson",
-    "position": "Shadow-An-Engineer Co-Coordinator",
-    "major": " ",
-    "year": "",
-    "img": "matthokinson_saecoord.png",
-    "bio": "Hi, I'm Matt. I'm a Senior studying Computer Science in Grainger, and I'll be working as a Shadow-An-Engineer co-coordinator on EOB. I also work on course staff for our Systems Programming class here. In my free time I really enjoy cooking, running, and reading. I'm looking forward to a great semester! "
-    },
-	 {
-    "name": "Nathan Ryan",
-    "position": "Student Tour Coordinator",
-    "major": "Engineering Physics",
-    "year": "Junior",
-    "img": "nathanryan_StudentToursCoord.jpg",
-    "bio": "Nathan (he/they) is a third year physics student interested in Nuclear and AMO physics. When not in class, he enjoys cooking, and is compiling the things he makes during the school year into a food journal. Feel free to reach out to Nathan if you have any questions about Physics, Nuclear Engineering, or anything else about UIUC."
+        "name": "Ariya Patel",
+        "position": "External Outreach Chair, Webinar Chair",
+        "major": "Industrial Engineering",
+        "year": "Junior",
+        "img": "ariyapatel_extoutreachchair.jpeg",
+        "bio": "Hello! My name is Ariya Patel (she/her), and I am a junior in Industrial Engineering. I am the External Outreach Chair for EOB! On campus, I am involved with Engineering Council as the DSAC Director and on EOB, EXPO, and Professional Development. I also am involved with Women in Electrical and Computer Engineering and Phi Chi Theta Professional Business Fraternity! I have loved working alongside a diverse and hard-working group of students. I look forward to what the next year holds!"
     },
 	{
-    "name": "Ariya Patel",
-    "position": "External Outreach Chair",
-    "major": "Computer Engineering",
-    "year": "Sophomore",
-    "img": "ariyapatel_extoutreachchair.jpeg",
-    "bio": "Hello! My name is Ariya Patel (she/her), and I am a sophomore in Computer Engineering. I am the External Outreach Chair for EOB! On campus, I am involved with Engineering Council as the DSAC Director and on EOB, EXPO, and Professional Development. I also am involved with Women in Electrical and Computer Engineering and Phi Chi Theta Professional Business Fraternity! I have loved working alongside a diverse and hard-working group of students. I look forward to what the next year holds!"
+        "name": "Joie Gindorf",
+        "position": "Student Tour Co-Coordinator",
+        "major": "Civil and Environmental Engineering",
+        "year": "Junior",
+        "img": "joiegindorf_farchair.jpeg",
+        "bio": "Hi! My name is Joie Gindorf and I am a junior in Civil Engineering. I am super excited to be involved in Engineering Council this year. I also serve on the SITE committee. I am a very proud Illini and love sharing my school spirit! My hobbies include playing golf and arts and crafts. I’m looking forward to an incredible semester!"
     },  
     {
-    "name": "Mary Ehmann",
-    "position": "High School Outreach Coordinator",
-    "major": "Chemical and Biomolecular Engineering",
-    "year": "Junior",
-    "img": "maryehmann_hsoutreachcoord.jpg",
-    "bio": "Hi, I’m Mary! I am a junior majoring in Chemical and Biomolecular Engineering with a minor in Molecular and Cellular Biology. Some of my hobbies include baking, hiking and traveling. This year I’m looking forward to connecting students to Engineering at UIUC!"
-    },
-	{
-    "name": "Sungyoon (Grant) Cho",
-    "position": "Facilities and Reservations Chair",
-    "major": "",
-    "year": "",
-    "img": "grantcho_fac.png",
-    "bio": "Hi, I’m Grant Cho! I am a sophomore studying aerospace engineering. I am a Facilities and Reservation Chair for the EOB this year and I am more than excited to serve this position. On campus, I also served as an orientation leader for the New Student Programs so I am looking forward to connect with more future Illini and share my experiences with Grainger engineering. In my free time, I like to play golf, go hang out with friends, and watch Bob Ross videos!" 
-	},
-	{
-    "name": "Joie Gindorf",
-    "position": "Facilities and Reservations Chair",
-    "major": " ",
-    "year": "",
-    "img": "joiegindorf_farchair.jpeg",
-    "bio": "Hi! My name is Joie Gindorf and I am a sophomore in Civil Engineering. I am super excited to be involved in Engineering Council this year. I also serve on the SITE committee. I am a very proud Illini and love sharing my school spirit! My hobbies include playing golf and arts and crafts. I’m looking forward to an incredible semester!"
-    },  
-    {
-    "name": "Matthew Fang",
-    "position": "Facilities and Reservations Chair",
-    "major": "Electrical Engineering",
-    "year": "Junior",
-    "img": "mattfang_farchair.jpg",
-    "bio": "Hi, I'm Matthew Fang, a junior studying electrical engineering, and I am a Facilities and Reservations chair for EOB this year. In my free time, I enjoy making keyboards and computers and playing spikeball, basketball, and table tennis. I look forward to helping prospective Illini learn more about Grainger Engineering."
+        "name": "Charlie Ranquist",
+        "position": "Student Tour Co-Coordinator",
+        "major": "Civil and Environmental Engineering",
+        "year": "Junior",
+        "img": "",
+        "bio": ""
     },
     {
-    "name": "Leah Beran",
-    "position": "Internal Publicity Chair",
-    "major": "Agricultural and Biological Engineering",
-    "year": "Senior",
-    "img": "leahberan_InternalPublicityChair.jpg",
-    "bio": "Hi, I'm Leah (she/her)! I am a junior studying Chemical and Biomolecular Engineering. My position in EOB is Internal Publicity Chair. About me: I am a light-hearted, science-loving, fun-seeking Illini. I can’t wait to share my experiences at Illinois with future Grainger Engineers. Outside of the classroom, I like to adventure and try new things, catch up with friends over coffee, and pet all the dogs on campus!"
-    }
+        "name": "Leah Beran",
+        "position": "Internal Publicity Chair",
+        "major": "Agricultural and Biological Engineering",
+        "year": "Senior",
+        "img": "leahberan_InternalPublicityChair.jpg",
+        "bio": "Hi, I'm Leah (she/her)! I am a senior studying Chemical and Biomolecular Engineering. My position in EOB is Internal Publicity Chair. About me: I am a light-hearted, science-loving, fun-seeking Illini. I can’t wait to share my experiences at Illinois with future Grainger Engineers. Outside of the classroom, I like to adventure and try new things, catch up with friends over coffee, and pet all the dogs on campus!"
+    },
+    {
+        "name": "Elizabeth Farah",
+        "position": "External Publicity Chair",
+        "major": "Industrial Engineering",
+        "year": "Sophomore",
+        "img": "elizabethfarah_.jpg",
+        "bio": "Hi! My name is Elizabeth Farah. I’m a sophomore in Industrial Engineering. Outside of EOB, I’m also on Engineering Councils SITE and EOH committees, as well as the Outreach Committee for SWE. In my free time, I like to rollerblade, listen to music, and grab food with friends."
+    },
+    {
+        "name": "Emily Chen",
+        "position": "Student/ Parent Panel Coordinator",
+        "major": "Computer Engineering",
+        "year": "Sophomore",
+        "img": "",
+        "bio": ""
+    },
+    {
+        "name": "Hans Koduri",
+        "position": "Facilities & Reservations Chair",
+        "major": "Aerospace Engineering",
+        "year": "Junior",
+        "img": "",
+        "bio": ""
+    },
+    {
+        "name": "Jennifer Grenier",
+        "position": "Facilities & Reservations Chair",
+        "major": "Mechanical Engineering",
+        "year": "Junior",
+        "img": "",
+        "bio": ""
+    },
+    {
+        "name": "Sneha Mohan",
+        "position": "E-Day Chair",
+        "major": "Computer Science",
+        "year": "Freshman",
+        "img": "",
+        "bio": ""
+    },
+    {
+        "name": "Jacob Milo",
+        "position": "Advisor",
+        "major": "Chemical and Biomolecular Engineering",
+        "year": "Senior",
+        "img": "jacobmilo.jpg",
+        "bio": "Hi, I'm Jacob (he/him). I am a senior studying Chemical Engineering. I like playing tennis and basketball outside of EOB. I'm excited to answer any questions you have about engineering at UIUC!"
+    } 
 ]
