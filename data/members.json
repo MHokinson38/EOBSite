@@ -9,7 +9,7 @@
     },
     {
         "name": "Matthew Hokinson",
-        "position": "Shadow-An-Engineer Chair, Webmaster",
+        "position": "Shadow-An-Engineer Chair, Web Wizard",
         "major": "Computer Science",
         "year": "Graduate Student",
         "img": "matthokinson_saecoord.png",
@@ -28,7 +28,7 @@
         "position": "Shadow-An-Engineer Co-Coordinator",
         "major": "Industrial Engineering",
         "year": "Junior",
-        "img": "",
+        "img": "blank_avatar.png",
         "bio": ""
     },
     {
@@ -60,8 +60,8 @@
         "position": "Student Tour Co-Coordinator",
         "major": "Civil and Environmental Engineering",
         "year": "Junior",
-        "img": "",
-        "bio": ""
+        "img": "charlieranquist_.jpg",
+        "bio": "Hi! I'm Charlie and I'm a Junior majoring in Civil Engineering and Political Science. I'm from Chicago, and outside of EOB I'm also involved in the American Society of Civil Engineers and the ESTAR campus tour guide program!"
     },
     {
         "name": "Leah Beran",
@@ -84,7 +84,7 @@
         "position": "Student/ Parent Panel Coordinator",
         "major": "Computer Engineering",
         "year": "Sophomore",
-        "img": "",
+        "img": "blank_avatar.png",
         "bio": ""
     },
     {
@@ -92,7 +92,7 @@
         "position": "Facilities & Reservations Chair",
         "major": "Aerospace Engineering",
         "year": "Junior",
-        "img": "",
+        "img": "blank_avatar.png",
         "bio": ""
     },
     {
@@ -100,7 +100,7 @@
         "position": "Facilities & Reservations Chair",
         "major": "Mechanical Engineering",
         "year": "Junior",
-        "img": "",
+        "img": "blank_avatar.png",
         "bio": ""
     },
     {
@@ -108,7 +108,7 @@
         "position": "E-Day Chair",
         "major": "Computer Science",
         "year": "Freshman",
-        "img": "",
+        "img": "blank_avatar.png",
         "bio": ""
     },
     {
